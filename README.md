@@ -1,7 +1,7 @@
 Markdown
 # PyMOL AlphaFold Fetch Plugin (`fetchaf.py`)
 
-A lightweight, robust PyMOL plugin to dynamically fetch, load, and color AlphaFold protein structure predictions directly from the EBI AlphaFold Database.
+A lightweight, robust PyMOL plugin to dynamically fetch, load, and color AlphaFold protein structure predictions directly from the EBI AlphaFold Database [AFDB]{https://alphafold.ebi.ac.uk/}.
 
 ## Features
 * **Dynamic API Querying:** Automatically queries the EBI AlphaFold API to find the latest available prediction version (e.g., v4, v6) for a given UniProt ID, preventing broken links.
